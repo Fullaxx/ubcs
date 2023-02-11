@@ -1,4 +1,4 @@
-# LinuxServer.io code-server image with C-code dev tools
+# [LinuxServer.io code-server](https://github.com/linuxserver/docker-code-server) with C-code dev tools
 
 ## Application Setup
 
